@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.auto.value:auto-value:1.4:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.auto.value/auto-value/jars/auto-value-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.google.auto.value/auto-value/srcs/auto-value-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/MyProject/src/main/scala/firebase/FirebaseGet.scala:14:45: not enough arguments for method get: (x$1: Int)com.google.cloud.firestore.QueryDocumentSnapshot.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter x$1.[0m
+[0m[[0m[31merror[0m] [0m[0m  val data= querySnapshot.getDocuments().get().toObject(classOf[PersonDataBean]).toCase[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
