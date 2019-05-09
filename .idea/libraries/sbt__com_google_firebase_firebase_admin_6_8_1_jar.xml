@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: com.google.firebase:firebase-admin:6.8.1:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.google.firebase/firebase-admin/jars/firebase-admin-6.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../.ivy2/cache/com.google.firebase/firebase-admin/srcs/firebase-admin-6.8.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
