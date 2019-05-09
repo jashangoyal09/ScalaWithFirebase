@@ -7,7 +7,8 @@ object PersonDataOne extends App {
 
     val objectForFirebasePost=new FireBasePost()
     val objectForFireStorePost= new FireStorePost()
-    val objecForFireStoreGet = new FireStoreGet()
-    val objectForFirebaseGet = new FirebaseGet()
+//    Thread.sleep(5000)
+//    val objecForFireStoreGet = new FireStoreGet()
+//    val objectForFirebaseGet = new FirebaseGet()
 
 }

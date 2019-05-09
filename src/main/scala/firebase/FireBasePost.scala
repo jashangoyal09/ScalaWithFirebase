@@ -4,7 +4,7 @@ import com.google.api.core.ApiFuture
 import connectors.FirebaseConnection
 
 class FireBasePost {
-  val personData=PersonData("B","Shivraj","male")
+  val personData=PersonData("B","jashan","male")
 
   def post(personData: PersonData, refPath: String): ApiFuture[Void] = {
     val ref = FirebaseConnection.ref(refPath).child(personData.personId)
